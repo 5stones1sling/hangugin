@@ -29,7 +29,7 @@ This repository contains a simple yet powerful Korean learning application desig
    ```
 2. Navigate to the project directory:
    ```bash
-   cd korean-learning-app
+   cd hangugin
    ```
 3. Install dependencies:
    ```bash
