@@ -25,7 +25,7 @@ This repository contains a simple yet powerful Korean learning application desig
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/korean-learning-app.git
+   git clone https://github.com/5stones1sling/hangugin.git
    ```
 2. Navigate to the project directory:
    ```bash
