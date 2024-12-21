@@ -2,6 +2,8 @@
 
 This repository contains a simple yet powerful Korean learning application designed to help users learn the Korean language while showcasing modern application development techniques.
 
+Visit here for demo [https://korean.mintybits.com/](https://korean.mintybits.com/)
+
 ## Key Features
 
 1. **State Management with GetX**  
